@@ -1,4 +1,4 @@
-![Header](https://github.com/greenvariety/greenvariety/blob/main/assets/header.jpg)
+![Header](https://github.com/greenvariety/greenvariety/blob/main/assets/header.png)
 
 ## I am a novice data analyst 
 
